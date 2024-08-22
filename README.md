@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/Deceive00/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Deceive00/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Deceive00/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deceive00/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0739-daily-temperatures](https://github.com/Deceive00/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Deceive00/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Deceive00/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Deceive00/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deceive00/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/Deceive00/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Deceive00/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Matrix
