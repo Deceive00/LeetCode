@@ -31,7 +31,6 @@ public:
             length--;
 
         }
-        cout << length << endl;
         if(length == 1 && n == 1){
             return NULL;
         }
