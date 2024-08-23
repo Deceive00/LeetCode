@@ -28,6 +28,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deceive00/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/Deceive00/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Deceive00/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/Deceive00/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Matrix
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0217-contains-duplicate](https://github.com/Deceive00/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deceive00/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Deceive00/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1023-time-based-key-value-store](https://github.com/Deceive00/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Union Find
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | [0049-group-anagrams](https://github.com/Deceive00/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Deceive00/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Deceive00/LeetCode/tree/master/0242-valid-anagram) |
+| [1023-time-based-key-value-store](https://github.com/Deceive00/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Stack
 |  |
 | ------- |
@@ -118,4 +121,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Deceive00/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Design
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/Deceive00/LeetCode/tree/master/1023-time-based-key-value-store) |
 <!---LeetCode Topics End-->
