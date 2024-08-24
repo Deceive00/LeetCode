@@ -64,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Deceive00/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Deceive00/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Deceive00/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Deceive00/LeetCode/tree/master/0242-valid-anagram) |
@@ -71,6 +72,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Deceive00/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Deceive00/LeetCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Deceive00/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Deceive00/LeetCode/tree/master/0739-daily-temperatures) |
