@@ -161,6 +161,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Deceive00/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Deceive00/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
