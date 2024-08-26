@@ -82,6 +82,7 @@
 | [0143-reorder-list](https://github.com/Deceive00/LeetCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Deceive00/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Deceive00/LeetCode/tree/master/0739-daily-temperatures) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Deceive00/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0883-car-fleet](https://github.com/Deceive00/LeetCode/tree/master/0883-car-fleet) |
 ## Monotonic Stack
 |  |
@@ -160,10 +161,12 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Deceive00/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Deceive00/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
