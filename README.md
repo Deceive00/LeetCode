@@ -176,6 +176,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Deceive00/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Deceive00/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Deceive00/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Deceive00/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Deceive00/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Deceive00/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Deceive00/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/0226-invert-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -209,6 +212,7 @@
 | [0226-invert-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Deceive00/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
