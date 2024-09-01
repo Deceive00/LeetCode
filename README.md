@@ -80,6 +80,7 @@
 | [0049-group-anagrams](https://github.com/Deceive00/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Deceive00/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Deceive00/LeetCode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Deceive00/LeetCode/tree/master/0412-fizz-buzz) |
 | [1023-time-based-key-value-store](https://github.com/Deceive00/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Stack
 |  |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deceive00/LeetCode/tree/master/0002-add-two-numbers) |
+| [0412-fizz-buzz](https://github.com/Deceive00/LeetCode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -238,5 +240,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Deceive00/LeetCode/tree/master/0412-fizz-buzz) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Deceive00/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
