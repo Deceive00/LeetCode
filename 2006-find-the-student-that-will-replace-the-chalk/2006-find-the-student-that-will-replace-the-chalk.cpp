@@ -15,7 +15,6 @@ public:
                 return i;
             }
             i++;
-            i %= n;
         }
         return i;
     }
