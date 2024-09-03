@@ -85,6 +85,7 @@
 | [0242-valid-anagram](https://github.com/Deceive00/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Deceive00/LeetCode/tree/master/0412-fizz-buzz) |
 | [1023-time-based-key-value-store](https://github.com/Deceive00/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Deceive00/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Stack
 |  |
 | ------- |
@@ -247,6 +248,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Deceive00/LeetCode/tree/master/0412-fizz-buzz) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Deceive00/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Deceive00/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Deceive00/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
 |  |
