@@ -261,4 +261,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Deceive00/LeetCode/tree/master/0322-coin-change) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Deceive00/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
