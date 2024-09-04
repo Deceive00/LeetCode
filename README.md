@@ -29,6 +29,7 @@
 | [0907-koko-eating-bananas](https://github.com/Deceive00/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Deceive00/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Deceive00/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/Deceive00/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Binary Search
 |  |
 | ------- |
