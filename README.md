@@ -31,6 +31,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Deceive00/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Deceive00/LeetCode/tree/master/2155-find-missing-observations) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Deceive00/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Deceive00/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Deceive00/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0906-walking-robot-simulation](https://github.com/Deceive00/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1023-time-based-key-value-store](https://github.com/Deceive00/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Deceive00/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Union Find
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0141-linked-list-cycle](https://github.com/Deceive00/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Deceive00/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Deceive00/LeetCode/tree/master/0146-lru-cache) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Deceive00/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
