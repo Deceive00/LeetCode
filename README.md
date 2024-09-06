@@ -276,5 +276,6 @@
 | [0184-department-highest-salary](https://github.com/Deceive00/LeetCode/tree/master/0184-department-highest-salary) |
 | [0607-sales-person](https://github.com/Deceive00/LeetCode/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/Deceive00/LeetCode/tree/master/0608-tree-node) |
+| [0619-biggest-single-number](https://github.com/Deceive00/LeetCode/tree/master/0619-biggest-single-number) |
 | [1179-game-play-analysis-i](https://github.com/Deceive00/LeetCode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
