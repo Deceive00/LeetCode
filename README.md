@@ -120,6 +120,7 @@
 | [0141-linked-list-cycle](https://github.com/Deceive00/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Deceive00/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Deceive00/LeetCode/tree/master/0146-lru-cache) |
+| [0725-split-linked-list-in-parts](https://github.com/Deceive00/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Deceive00/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
