@@ -188,6 +188,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Deceive00/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Deceive00/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Tree
 |  |
 | ------- |
