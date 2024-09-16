@@ -22,6 +22,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Deceive00/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Deceive00/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Deceive00/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0539-minimum-time-difference](https://github.com/Deceive00/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0739-daily-temperatures](https://github.com/Deceive00/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Deceive00/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Deceive00/LeetCode/tree/master/0883-car-fleet) |
@@ -99,6 +100,7 @@
 | [0125-valid-palindrome](https://github.com/Deceive00/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Deceive00/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Deceive00/LeetCode/tree/master/0412-fizz-buzz) |
+| [0539-minimum-time-difference](https://github.com/Deceive00/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1023-time-based-key-value-store](https://github.com/Deceive00/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Deceive00/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Deceive00/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -151,6 +153,7 @@
 | [0217-contains-duplicate](https://github.com/Deceive00/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deceive00/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Deceive00/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0539-minimum-time-difference](https://github.com/Deceive00/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0883-car-fleet](https://github.com/Deceive00/LeetCode/tree/master/0883-car-fleet) |
 ## Divide and Conquer
 |  |
@@ -192,6 +195,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deceive00/LeetCode/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/Deceive00/LeetCode/tree/master/0412-fizz-buzz) |
+| [0539-minimum-time-difference](https://github.com/Deceive00/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/Deceive00/LeetCode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Deceive00/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
