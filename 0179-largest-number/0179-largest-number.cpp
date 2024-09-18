@@ -9,13 +9,11 @@ public:
     }
     string largestNumber(vector<int>& nums) {
         vector<string> strNums;
-        long long int sum = 0;
         for(int n : nums){
             strNums.push_back(to_string(n));
-            sum += n;
         }
-        if(sum == 0) return "0";
         sort(strNums.begin() , strNums.end(), cmpr);
+        if(!strNums.empty() && strNums[0] == "0") return "0";
         string ans = "";
         for(string s : strNums){
             ans += s;
