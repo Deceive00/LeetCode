@@ -101,6 +101,7 @@
 | [0049-group-anagrams](https://github.com/Deceive00/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Deceive00/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Deceive00/LeetCode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Deceive00/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Deceive00/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Deceive00/LeetCode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/Deceive00/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -145,6 +146,7 @@
 | [0002-add-two-numbers](https://github.com/Deceive00/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Deceive00/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Deceive00/LeetCode/tree/master/0143-reorder-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Deceive00/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deceive00/LeetCode/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Deceive00/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0412-fizz-buzz](https://github.com/Deceive00/LeetCode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/Deceive00/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/Deceive00/LeetCode/tree/master/2155-find-missing-observations) |
@@ -299,6 +302,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Deceive00/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/Deceive00/LeetCode/tree/master/0322-coin-change) |
 ## Database
 |  |
@@ -319,4 +323,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Deceive00/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Deceive00/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
