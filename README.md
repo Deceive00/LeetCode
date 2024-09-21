@@ -244,6 +244,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Deceive00/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Deceive00/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0386-lexicographical-numbers](https://github.com/Deceive00/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Deceive00/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Deceive00/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Deceive00/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -334,4 +335,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Deceive00/LeetCode/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Deceive00/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
