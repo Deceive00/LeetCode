@@ -73,6 +73,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Deceive00/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Deceive00/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Deceive00/LeetCode/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/Deceive00/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Deceive00/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deceive00/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Deceive00/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -99,6 +100,7 @@
 | [0141-linked-list-cycle](https://github.com/Deceive00/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Deceive00/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deceive00/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Deceive00/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Deceive00/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Deceive00/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## String
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deceive00/LeetCode/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/Deceive00/LeetCode/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Deceive00/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0412-fizz-buzz](https://github.com/Deceive00/LeetCode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/Deceive00/LeetCode/tree/master/0539-minimum-time-difference) |
