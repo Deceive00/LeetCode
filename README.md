@@ -220,6 +220,7 @@
 | [0539-minimum-time-difference](https://github.com/Deceive00/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/Deceive00/LeetCode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Deceive00/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3830-find-closest-person](https://github.com/Deceive00/LeetCode/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
