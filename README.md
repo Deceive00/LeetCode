@@ -160,6 +160,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Deceive00/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Deceive00/LeetCode/tree/master/0143-reorder-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Deceive00/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/Deceive00/LeetCode/tree/master/0326-power-of-three) |
 ## Greedy
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [0002-add-two-numbers](https://github.com/Deceive00/LeetCode/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Deceive00/LeetCode/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Deceive00/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/Deceive00/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Deceive00/LeetCode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/Deceive00/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/Deceive00/LeetCode/tree/master/2155-find-missing-observations) |
