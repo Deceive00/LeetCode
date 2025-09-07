@@ -30,6 +30,7 @@
 | [0883-car-fleet](https://github.com/Deceive00/LeetCode/tree/master/0883-car-fleet) |
 | [0906-walking-robot-simulation](https://github.com/Deceive00/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Deceive00/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Deceive00/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Deceive00/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Deceive00/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Deceive00/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -223,6 +224,7 @@
 | [0326-power-of-three](https://github.com/Deceive00/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Deceive00/LeetCode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/Deceive00/LeetCode/tree/master/0539-minimum-time-difference) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Deceive00/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2155-find-missing-observations](https://github.com/Deceive00/LeetCode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Deceive00/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3830-find-closest-person](https://github.com/Deceive00/LeetCode/tree/master/3830-find-closest-person) |
