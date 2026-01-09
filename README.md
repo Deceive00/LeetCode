@@ -25,6 +25,7 @@
 | [0322-coin-change](https://github.com/Deceive00/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Deceive00/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/Deceive00/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0643-maximum-average-subarray-i](https://github.com/Deceive00/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Deceive00/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Deceive00/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Deceive00/LeetCode/tree/master/0883-car-fleet) |
@@ -364,4 +365,8 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Deceive00/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Deceive00/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Deceive00/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Deceive00/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
