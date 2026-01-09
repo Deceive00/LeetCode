@@ -8,21 +8,19 @@ public:
         for (int i = 0 ; i < s.length() ; i++) {
             char c = s[i];
             if (map.find(c) != map.end()) {
-                maxCount = max(maxCount, count);
                 if (startIdx > map[c]) {
                     count++;
+                    maxCount = max(maxCount, count);
                     map[c] = i;
                 } else {
+                    maxCount = max(maxCount, count);
                     count = i - map[c]; 
                     startIdx = map[c] + 1;
                     map[c] = i;
                 }
-
-                cout << c << " " << count << " " << startIdx << " " << map[c] << endl;
             } else {
                 map[c] = i;
                 count++;
-                cout << c << " " << count << endl;
             }
         }
         maxCount = max(maxCount, count); 
