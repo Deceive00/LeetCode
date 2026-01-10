@@ -29,6 +29,7 @@
 | [0704-binary-search](https://github.com/Deceive00/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Deceive00/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Deceive00/LeetCode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Deceive00/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/Deceive00/LeetCode/tree/master/0883-car-fleet) |
 | [0906-walking-robot-simulation](https://github.com/Deceive00/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Deceive00/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -57,6 +58,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Deceive00/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Deceive00/LeetCode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Deceive00/LeetCode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Deceive00/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/Deceive00/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Deceive00/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Deceive00/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
