@@ -122,6 +122,7 @@
 | [0214-shortest-palindrome](https://github.com/Deceive00/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Deceive00/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Deceive00/LeetCode/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/Deceive00/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Deceive00/LeetCode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/Deceive00/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Deceive00/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -138,6 +139,7 @@
 | [0020-valid-parentheses](https://github.com/Deceive00/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Deceive00/LeetCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Deceive00/LeetCode/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/Deceive00/LeetCode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Deceive00/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/Deceive00/LeetCode/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Deceive00/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -174,6 +176,7 @@
 | [0206-reverse-linked-list](https://github.com/Deceive00/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Deceive00/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Deceive00/LeetCode/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/Deceive00/LeetCode/tree/master/0394-decode-string) |
 ## Greedy
 |  |
 | ------- |
