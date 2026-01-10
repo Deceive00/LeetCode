@@ -18,11 +18,7 @@ public:
                 i = k + 1;
             } else {
                 j = k - 1;
-                if(currentHour == h) {
-                    res = min(k, res);
-                } else {
-                    res = k;
-                }
+                res = k;
             }
         }
         // base conditionnya ga harus h == currentHour
