@@ -102,6 +102,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Deceive00/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Deceive00/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Deceive00/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Deceive00/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deceive00/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Deceive00/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Deceive00/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Deceive00/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Deceive00/LeetCode/tree/master/0049-group-anagrams) |
@@ -354,6 +356,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Deceive00/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Deceive00/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/Deceive00/LeetCode/tree/master/0322-coin-change) |
 | [2755-extra-characters-in-a-string](https://github.com/Deceive00/LeetCode/tree/master/2755-extra-characters-in-a-string) |
