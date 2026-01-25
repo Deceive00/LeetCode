@@ -37,6 +37,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Deceive00/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Deceive00/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Deceive00/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Deceive00/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Deceive00/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Deceive00/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Deceive00/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -204,6 +205,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Deceive00/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/Deceive00/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0883-car-fleet](https://github.com/Deceive00/LeetCode/tree/master/0883-car-fleet) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Deceive00/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -407,6 +409,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deceive00/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Deceive00/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Deceive00/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Deceive00/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Backtracking
 |  |
 | ------- |
