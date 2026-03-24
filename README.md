@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Deceive00/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Deceive00/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Deceive00/LeetCode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Deceive00/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Deceive00/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Deceive00/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Deceive00/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -110,6 +111,7 @@
 | [0015-3sum](https://github.com/Deceive00/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Deceive00/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deceive00/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Deceive00/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Deceive00/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Deceive00/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Deceive00/LeetCode/tree/master/0143-reorder-list) |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deceive00/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Deceive00/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Deceive00/LeetCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Deceive00/LeetCode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Deceive00/LeetCode/tree/master/0394-decode-string) |
@@ -160,6 +163,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Deceive00/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Deceive00/LeetCode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Deceive00/LeetCode/tree/master/0883-car-fleet) |
 ## Linked List
@@ -364,6 +368,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deceive00/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Deceive00/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Deceive00/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/Deceive00/LeetCode/tree/master/0322-coin-change) |
 | [2755-extra-characters-in-a-string](https://github.com/Deceive00/LeetCode/tree/master/2755-extra-characters-in-a-string) |
